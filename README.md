@@ -7,4 +7,5 @@ Learner mode changes the font back when you hover over it, useful for learning
 
 ## Credits
 Drag image from https://icons.iconarchive.com/icons/arturo-wibawa/akar/24/drag-horizontal-icon.png
+
 Uses font “Avali Scratch” (https://fontstruct.com/fontstructions/show/1108804) by “SomeGuyNamedDavid”
